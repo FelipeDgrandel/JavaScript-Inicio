@@ -7,9 +7,9 @@ Codigo Condição de pagamento:
 - Em duas vezes, preço normal de etiqueta sem juros:
 - Acima de duas vezes, preço normal de etiqueta mais juros de 10 %;
 */ 
-let precoProdutoEtiqueta = 12.00
+let precoProdutoEtiqueta = 120.00
 let condicaoDePagamento = "credito"
-let numeroDeParcelas = 3
+let numeroDeParcelas = 4
 
 if(condicaoDePagamento == "debito"){
     const total = 0.9 * precoProdutoEtiqueta
