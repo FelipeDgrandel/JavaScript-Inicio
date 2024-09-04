@@ -8,3 +8,6 @@ const pessoa = {
 };
 
 pessoa.descrever()
+pessoa.nome = 'Renan';
+pessoa.altura = 1.9
+ pessoa.descrever()
